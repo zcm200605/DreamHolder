@@ -3,9 +3,9 @@
 
 目录结构：
 源代码
-        - model——算法模型文件
-        - my-project——健康检测与分析系统
-        - StuForum1.0——校园论坛业务系统
+- model——算法模型文件
+- my-project——健康检测与分析系统
+- StuForum1.0——校园论坛业务系统
 - chnsenticorp数据集.rar——训练模型所用数据集
 - stu_forum.sql——数据库sql脚本
 
